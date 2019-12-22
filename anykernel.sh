@@ -4,13 +4,13 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Genom Kernel by rama982 @ telegram
+kernel.string=Hoi
 do.devicecheck=1
 do.modules=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=vince
-device.name2=
+device.name1=rolex
+device.name2=redmi4a
 device.name3=
 device.name4=
 device.name5=
